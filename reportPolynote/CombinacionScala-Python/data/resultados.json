@@ -1,9 +1,0 @@
-{
-"Estudiante1":{"Nombre": "Carlos Castillo", "Identificacion": "1104999535", "Notas": "[38, 38, 40]", "Promedio": "38.666666666666664"},
-"Estudiante2":{"Nombre": "Luis Erazo", "Identificacion": "1102721238", "Notas": "[39, 39, 40]", "Promedio": "39.333333333333336"},
-"Estudiante3":{"Nombre": "Luis Diaz", "Identificacion": "1105678954", "Notas": "[40, 37, 34]", "Promedio": "37.0"},
-"Estudiante4":{"Nombre": "Jose Castillo", "Identificacion": "1102134560", "Notas": "[40, 39, 38]", "Promedio": "39.0"},
-"Estudiante5":{"Nombre": "Karen Giron", "Identificacion": "1102345768", "Notas": "[39, 31, 35]", "Promedio": "35.0"},
-"Estudiante6":{"Nombre": "Thalia Mijas", "Identificacion": "1105023386", "Notas": "[39, 38, 36]", "Promedio": "37.666666666666664"},
-"Estudiante7":{"Nombre": "Richard Valladares", "Identificacion": "1102341342", "Notas": "[31, 30, 35]", "Promedio": "32.0"},
-}
