@@ -91,7 +91,6 @@
 
 - divider: true
 - header: Demo textbook
-
 - title: Data Science
   url: /01/what-is-data-science
   sections:
